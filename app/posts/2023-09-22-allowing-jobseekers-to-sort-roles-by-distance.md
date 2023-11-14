@@ -13,7 +13,7 @@ When entering a location, jobseekers can now:
 - sort job listings by distance from their specified location
 - see how far the job listing is from their specificied location
 
-This will give job seekers with a preference on location to find more suitable jobs.
+This will help job seekers with a preference on location find more suitable jobs.
 
 We will be monitoring how this impacts the job search journey.
 
